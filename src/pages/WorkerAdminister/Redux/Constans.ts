@@ -1,0 +1,2 @@
+export const GET_WORKER_ADMINISTER_DATA = 'workerAdminister/GET_WORKER_ADMINISTER_DATA';
+export const SET_WORKER_ADMINISTER_DATA = 'workerAdminister/SET_WORKER_ADMINISTER_DATA';
