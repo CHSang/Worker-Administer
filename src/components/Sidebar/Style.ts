@@ -7,9 +7,9 @@ export const SidebarWrapper = styled(ProSidebar)`
     }
 
     .pro-sidebar-inner{
-        background: #fbfbf8;
+        background: #ededeb;
         height: 100vh !important;
-        box-shadow: 2px 0px 8px rgb(101 101 101 / 20%);
+        box-shadow: 2px 0px 8px #888888;
     }
 
     .pro-item-content {
@@ -21,8 +21,8 @@ export const SidebarWrapper = styled(ProSidebar)`
 
     .pro-menu-item {
         &.menu-active {
-            background-color: rgba(64, 91, 239, 0.2);
-            color: #405bef;
+            background-color: #569bf5;
+            color: #fff;
         }
     }
 `;
